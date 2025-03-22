@@ -1,0 +1,21 @@
+{
+  "name": "lect_17_image_uplodaer",
+  "version": "1.0.0",
+  "main": "sever.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cloudinary": "^2.6.0",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "mongo": "^0.1.0",
+    "mongoose": "^8.12.2",
+    "multer": "^1.4.5-lts.2"
+  }
+}
